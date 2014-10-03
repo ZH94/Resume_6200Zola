@@ -1,0 +1,38 @@
+body {
+    
+    background-color:red;
+}
+
+img {
+    position:relative;
+}
+
+picdiv {
+    position:fixed;
+}
+
+div {
+    background-color:white;
+    margin-left:210px;
+    font-family:"Arial";
+    font-size:14;
+}
+div#main {
+   position:fixed;
+   background-color:yellow;
+   margin-left:210px;
+   width:868px;
+   height:auto;
+   font-family:"Arial";
+}
+
+p {
+    margin-left:10px;
+}
+h1{
+    margin-left:10px;
+}
+
+h3{
+    margin-left:10px;
+}
